@@ -6,7 +6,6 @@ Almuetasim Aldokali
 121203007
 
 
-https://github.com/BILGI-IE-421/ie421-2024-2025-termproject-lazypandas.git
 Economic Development and Financial Markets
 Theme
 The impact of the 2008 financial crisis and the COVID-19 pandemic on unemployment, GDP growth, and fiscal policies in the U.S. and Europe.
@@ -27,6 +26,12 @@ Once we had our datasets, we tried making different kinds of visuals to and high
 
 After preparing our visual we got out our main point to be explained in from the visuals and write them down we used ai to help us with wording of the story.  Then, we struggled a lot in the part of building the html website to host our final project. We spent a long time figuring out how to arrange everything, embed the charts properly, and make the pages easy to navigate. In the end, we made it work.
 
+
+
+
+
+
+https://saadetttin.github.io/ie421-2024-2025-termproject-lazypandas/
 
 
 
