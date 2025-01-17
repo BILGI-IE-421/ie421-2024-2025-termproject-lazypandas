@@ -31,6 +31,3 @@ After preparing our visual we got out our main point to be explained in from the
 
 
 
-   ## View the HTML File
-[Open HTML File](https://github.com/saadettin/ie421-2024-2025-termproject-lazypandas/blob/main/index.html)
-
